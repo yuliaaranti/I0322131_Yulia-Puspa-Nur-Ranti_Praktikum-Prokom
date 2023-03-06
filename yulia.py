@@ -10,4 +10,3 @@ data = {"nama": "yulia", "kelas": "KLS D", "nim" : "131"}
 print (nama_depan)
 print ("nama saya adalah Yulia")
 print (f"nama saya adalah {nama_depan} {nama_blkg} dari kelas {data['kelas']} ")
-print (f"nama saya adalah {nama_depan} {nama_blkg} dari {data['kelas'])}")
